@@ -92,7 +92,3 @@ var sum = [0, 1, 2, 3];
 sum.reduce((a, b) => {
   return a + b;
 }, 0);
-
-//Splice
-console.log(names)
-console.log(names.splice(1, 2, "Luke"));
